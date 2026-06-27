@@ -59,7 +59,7 @@ grâce à l'analyse de données pour permettre des interventions précoces.
 <img width="2048" height="1161" alt="c1" src="https://github.com/user-attachments/assets/b13099f7-e3e6-45cc-87c9-5fa642363797" />
 
 **Endpoint live :**  
-🔗 https://tahlil-taalim-api-production.up.railway.app
+🔗 [https://tahlil-taalim-api-production.up.railway.app](https://tahlil-taalim-api-production.up.railway.app/docs)
 
 **Input (8 variables) :**
 ```json
